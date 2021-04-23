@@ -13590,7 +13590,7 @@
                         hasStartedMusic: !1,
                         fontList: [],
                         showDownloadButton: Object(g.c)("is_show_download_button"),
-                        isLoading: !Object(g.c)("is_no_need_open_id") && !Object(g.c)("preview") && !Object(B.a)(v.g) && Object(g.o)() && !Object(g.p)(),
+                        isLoading: 0,
                         loading_text: ".",
                         isLongPage: !1
                     }
