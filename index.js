@@ -1789,9 +1789,7 @@
         }
 
         function ht() {
-            var t = window.location.href,
-                e = "https://".concat("api", ".hunliji.com/hms/wechat/appApi/v2/auth/url?redirectUrl=").concat(encodeURIComponent(t), "&accountType=INVITATION_GIFT_SERVICE");
-            window.location.href = t
+
         }
 
         function dt() {
